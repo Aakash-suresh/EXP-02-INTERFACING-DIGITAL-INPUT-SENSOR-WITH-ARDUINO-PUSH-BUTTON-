@@ -101,7 +101,11 @@ void loop()
 
 
 
-Output of the simulation :
+### Output of the simulation :
 
 ![My image](Circuit.png)
+
+## RESULT :
+
+Thus, we have interfaced a digital input (push button) and blink of LED upon activation.
 
